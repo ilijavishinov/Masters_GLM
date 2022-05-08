@@ -1,0 +1,1 @@
+This repository contains the practical solutions for chapter 2 from the book Introduction_to_Linear_Regression_Analys by Douglas C. Montgomery et. al., and chapters 2-9 from the book An Introduction to Generalized Linear Models by Annette J. Dobson et. al.
